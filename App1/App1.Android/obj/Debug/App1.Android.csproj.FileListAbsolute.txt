@@ -1,0 +1,5 @@
+c:\users\gabriel\documents\visual studio 2015\Projects\App1\App1\App1.Android\obj\Debug\App1.Droid.MainPage.xaml.g.cs
+c:\users\gabriel\documents\visual studio 2015\Projects\App1\App1\App1.Android\obj\Debug\App1.Droid.App.xaml.g.cs
+c:\users\gabriel\documents\visual studio 2015\Projects\App1\App1\App1.Android\obj\Debug\App1.Droid.UserSignUp.xaml.g.cs
+c:\users\gabriel\documents\visual studio 2015\Projects\App1\App1\App1.Android\obj\Debug\App1.Android.dll
+c:\users\gabriel\documents\visual studio 2015\Projects\App1\App1\App1.Android\obj\Debug\App1.Android.pdb
